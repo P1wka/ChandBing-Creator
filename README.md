@@ -1,1 +1,7 @@
-# piwkadev.github.io
+# CHANDLER BING MEME CREATOR
+
+# 1- GO TO "p1wka.github.io/ChandBing-Creator"
+
+# 2- UPLOAD YOUR PHOTO AND DOWNLOAD IT
+
+# 3- ENJOY IT!
