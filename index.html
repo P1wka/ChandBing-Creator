@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8" />
 <link rel="icon" href="img/icon.png" type="image/x-icon" />
-<title>Cbing Meme Creator</title>
+<title>Chandler Meme Creator</title>
 <style>
   body, html {
     height: 100%;
@@ -70,7 +70,7 @@
 </head>
 <body>
 
-<button onclick="document.getElementById('fileInput').click()">Choose Image</button>
+<button onclick="document.getElementById('fileInput').click()">Upload Image</button>
 <input type="file" id="fileInput" accept="image/*" style="display:none" onchange="previewImage(event)" />
 
 <div class="fixed-container">
@@ -78,7 +78,7 @@
   <img id="preview" alt="User's Image" />
 </div>
 
-<button id="downloadBtn" style="display:none" onclick="downloadCombinedImage()">İndir</button>
+<button id="downloadBtn" style="display:none" onclick="downloadCombinedImage()">Download</button>
 
 <script>
   let userImg = null;
